@@ -7,4 +7,4 @@ En marzo de 1922, después de obtener varias críticas positivas en algunas conf
  
 Esta primera versión del Theremin estaba constituido por un oscilador y dos antenas, todo ello dentro de una caja de madera. Una de las antenas salía del costado y la otro por la parte superior. La del costado, posicionada de forma horizontal, controlaba la amplitud (volumen) de la onda generada, mientras que la que salía de la parte superior y estaba en vertical, controlaba la frecuencia (tono).
 
-!
+
